@@ -32,7 +32,7 @@ function Projects() {
           src={poke}
           link="https://github.com/Shbucket/Pokemon-Card-Geneator"
           h3="Pokemon Card Generator"
-          p="Powered by pokemon API. Find your favorite pokemon"
+          p="Powered by pokemon API."
         />
       </div>
     </section>
